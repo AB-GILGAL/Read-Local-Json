@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "name": "Mango",
+      "description": "A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It is believed to have originated in southern Asia, particularly in eastern India, Bangladesh, and the Andaman Islands.",
+      "price": 99.1,
+      "imageUrl": "https://nationaltoday.com/wp-content/uploads/2022/05/28-Mango-Month-1200x834.jpg"
+    },
+    {
+      "name": "Orange",
+      "description": "An orange is a fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis,[1] which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange.",
+      "price": 54.1,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ambersweet_oranges.jpg"
+    },
+    {
+      "name": "Guava",
+      "description": "Guava is a tree that grows in Central and South America. The fruit is commonly eaten fresh or made into beverages, jams, and other foods. Various parts of the plant, including the leaf and the fruit, are used as medicine.",
+      "price": 78.1,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLB1yOXMpcjo7GVU0DN0A_FtSn_1eqKlOUNQ&usqp=CAU"
+    },
+    {
+      "name": "Apple",
+      "description": "An apple is a round, edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus.",
+      "price": 96.1,
+      "imageUrl": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-82540,resizemode-75,msid-94428377/magazines/panache/apples-arent-what-they-used-to-be-commercialisation-has-made-the-fruit-almost-tasteless.jpg"
+    },
+    {
+      "name": "Pineapple",
+      "description": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit; it is the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries.",
+      "price": 45.1,
+      "imageUrl": "https://th.bing.com/th/id/R.ff18c667bdcb26414a60245d9e5b9eb4?rik=m6%2f7UTc3RK1LlQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-o3lClbnRjkE%2fTjAl9fjwyDI%2fAAAAAAAADJs%2fRJwoorXBCA4%2fs1600%2fPineapple.jpg&ehk=93Bp2pxc%2b%2f24ZJdp60hTSMG7OLdHQ2HUcZl9vA0mNYE%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Pawpaw",
+      "description": "Asimina triloba, the American papaw, pawpaw, paw paw, or paw-paw, among many regional names, is a small deciduous tree native to the eastern United States and Canada, producing a large, yellowish-green to brown fruit.",
+      "price": 63.1,
+      "imageUrl": "https://th.bing.com/th/id/R.edbf99526676040669e8db1c76e58ecf?rik=a7878D96RWJhsg&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Grape",
+      "description": "The grapefruit (Citrus × paradisi) is a subtropical citrus tree known for its relatively large, sour to semi-sweet, somewhat bitter fruit. The interior flesh is segmented and varies in color from pale yellow to dark pink.",
+      "price": 82.1,
+      "imageUrl": "https://th.bing.com/th/id/R.304e11b87cd489451b90a53340348d66?rik=V%2fJWjSuEBvG2cQ&pid=ImgRaw&r=0"
+    }
+  ]
+}
